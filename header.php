@@ -15,6 +15,9 @@
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
+                    <a href="<?php if($page != 'index') { echo 'index'; }?>#index" class="smoothScroll nav-logo">
+                        <img src="img/index/icons/logo.png" alt="logo">
+                    </a>
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
@@ -24,9 +27,6 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <a href="<?php if($page != 'index') { echo 'index'; }?>#index" class="smoothScroll nav-logo hidden-xs">
-                            <img src="img/index/icons/logo.png" alt="logo">
-                        </a>
                         <li><a href="<?php if($page != 'index') { echo 'index'; }?>#index" class="smoothScroll vertical-align nav-padd active">Nosotros</a></li>
                         <span></span>
                         <li><a href="<?php if($page != 'index') { echo 'index'; }?>#ofrecemos" class="smoothScroll vertical-align nav-padd">Que Ofrecemos</a></li>

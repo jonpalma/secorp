@@ -4,7 +4,7 @@
    </div>
     <div class="text-center footer-rights">
         <p>
-            Todos los derechos reservados SECORP <?php echo date('Y'); ?>. | Design by: <a href="http://mixen.mx"><img src="http://mixen.mx/firma/logo-mixen.png" alt="Agencia Mixen"> mixen.mx</a>
+            Todos los derechos reservados SECORP <?php echo date('Y'); ?>.
         </p>
     </div>
 </footer>

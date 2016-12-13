@@ -10,7 +10,7 @@
         <img src="img/index/banner/banner1.jpg" alt="" class="img-bg">
         <div class="container spacing">
             <h1>
-                Seguridad, en un sólo concepto
+                <span>Seguridad</span>, en un sólo concepto
             </h1>
             <p>
                 Nuestra gente es lo mas valioso en nuestra empresa, mas que un equipo,
@@ -32,14 +32,74 @@
                     <div class="item active">
                         <div class="col-sm-4 vertical-align">
                             <h3>
+                                Misión
+                            </h3>
+                        </div>
+                        <div class="col-sm-8 vertical-align">
+                            <p>
+                                Brindar a nuestros clientes soluciones integrales de
+                                seguridad, basados en la excelencia y calidad, teniendo
+                                como principal valor, el recurso humano.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="col-sm-4 vertical-align">
+                            <h3>
                                 Visión
                             </h3>
                         </div>
                         <div class="col-sm-8 vertical-align">
                             <p>
-                                Ser la empresa lider en seguridad privada, con mayor
+                                Ser la empresa líder en seguridad privada, con mayor
                                 trayectoria y reconocimiento de nuestros clientes,
-                                destacando por la calidad y servicio.
+                                destacando por la calidad y el servicio.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="col-sm-4 vertical-align">
+                            <h3>
+                                Valores
+                            </h3>
+                        </div>
+                        <div class="col-sm-8 vertical-align">
+                            <p>
+                                Profesionalismo, disciplina, puntualidad, trabajo en
+                                equipo, honestidad, honradez, lealtad, respeto.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="col-sm-4 vertical-align">
+                            <h3>
+                                Políticas
+                            </h3>
+                        </div>
+                        <div class="col-sm-8 vertical-align">
+                            <p>
+                                Proporcionar seguridad a las entidades sociales que contraten
+                                nuestros servicios de vigilancia, protegiendo y manteniendo el
+                                orden en los establecimientos, a sus empleados, proveedores,
+                                clientes y visitantes, adoptando sus reglamentos a nuestra
+                                manera de trabajar, para ofrecer un servicio de calidad confiable
+                                y seguro.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="col-sm-4 vertical-align">
+                            <h3>
+                                Historia
+                            </h3>
+                        </div>
+                        <div class="col-sm-8 vertical-align">
+                            <p>
+                                Seguridad Privada Ginther de Occidente es fundada en el año 2003,
+                                en el estado de chihuahua, nació como un sueño y jamás se ha temido
+                                innovar, crecer, mejorar y ofrecer el mejor trato a los clientes y
+                                colaboradores. Lo más grande de la empresa es su gente y es lo que
+                                nos ha brindado más arraigo y compromiso de calidad.  
                             </p>
                         </div>
                     </div>
@@ -77,8 +137,7 @@
             </div>
             <div class="col-sm-6">
                 <ul type="square">
-                    <li><span>Manejo de Información cliente</span></li>
-                    <li><span>Linea confidencial</span></li>
+                    <li><span>Manejo de Información cliente - línea confidencial</span></li>
                     <li><span>Investigación Privada</span></li>
                     <li><span>Alertas de Seguridad</span></li>
                     <li><span>Expedientes Oficiales</span></li>
@@ -118,6 +177,46 @@
     </div>
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
+    <!--/* CERTIFICACIONES */-->
+
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <div class="certificaciones" id="certificaciones">
+        <div class="container light-spacing">
+            <h1>
+                Nuestras<br>
+                Certificaciones
+            </h1>
+            <div class="col-sm-4">
+                <div class="img-container">
+                    <img src="img/index/certificaciones/cert1.png" alt="" class="vertical-align">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="img-container">
+                    <img src="img/index/certificaciones/cert2.png" alt="" class="vertical-align">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="img-container">
+                    <img src="img/index/certificaciones/cert3.png" alt="" class="vertical-align">
+                </div>
+            </div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-4">
+                <div class="img-container">
+                    <img src="img/index/certificaciones/cert4.png" alt="" class="vertical-align">
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="img-container">
+                    <img src="img/index/certificaciones/cert5.png" alt="" class="vertical-align">
+                </div>
+            </div>
+            <div class="col-sm-2"></div>
+        </div>
+    </div>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
     <!--/* PRESENCIA */-->
 
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -153,7 +252,8 @@
         <div class="container spacing">
             <div class="col-sm-6">
                 <h1>
-                    Nuestras Oficinas
+                    Nuestras<br>
+                    Oficinas
                 </h1>
                 <!-- Nav tabs -->
                 <ul class="nav nav-tabs" role="tablist">
@@ -199,37 +299,86 @@
                 <div class="tab-content">
                     <div role="tabpanel" class="vertical-align tab-pane fade in active" id="tab-1">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_1" data-position="1" data-lat="28.648508" data-long="-106.086394" data-title="Secorp Chihuahua"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7003.134993619913!2d-106.09020227247427!3d28.64272192965501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea4340b748e529%3A0x6d77e354197157e6!2sSecorp%2C+Seguridad+Corporativa.!5e0!3m2!1ses-419!2smx!4v1481671244933" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (614)415.0252 / 01.800.830.1083<br>
+                                Dirección: Calle Cortez de Monrroy #2106.
+                                San Felipe I Etapa.
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-2">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_2" data-position="2" data-lat="30.615076" data-long="-106.514620" data-title="Secorp Juárez"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3392.623737499264!2d-106.44620138491746!3d31.753469742771944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e7596103b6b0f9%3A0xe946aff92abd8df2!2sR%C3%ADo+de+La+Plata+4439%2C+Santa+Monica%2C+32319+Cd+Ju%C3%A1rez%2C+Chih.!5e0!3m2!1ses-419!2smx!4v1481672249660" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (656)627.0005<br>
+                                Dirección: Río de la Plata #4439. Colonia
+                                Cordova Americas.
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-3">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_3" data-position="3" data-lat="25.691315" data-long="-100.250177" data-title="Secorp Monterrey"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1797.700327089587!2d-100.25156834192946!3d25.69115541297507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDQxJzI4LjEiTiAxMDDCsDE1JzAxLjciVw!5e0!3m2!1ses-419!2smx!4v1481672179244" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (81) 3468.0304<br>
+                                Dirección: Calle Larga Vista #17 esquina con
+                                Miguel Alemán. Colonia Linda Vista / Guadalupe,
+                                Nuevo León.
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-4">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_4" data-position="4" data-lat="28.648508" data-long="-106.086394" data-title="Secorp México"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.883753704254!2d-99.23846938453286!3d19.50363648684392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d20320c2d46fb7%3A0xf6efdee8a668261d!2sPerif.+Blvd.+Manuel+%C3%81vila+Camacho+1903%2C+Cd.+Sat%C3%A9lite%2C+53100+Naucalpan+de+Ju%C3%A1rez%2C+M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1481671844908" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (55) 7155.0684<br>
+                                Dirección: Blvd. Manuel Avila Camacho 1903 /
+                                Int 502.
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-5">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_5" data-position="5" data-lat="20.632840" data-long="-103.383846" data-title="Secorp Guadalajara"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.957473111636!2d-103.3766436845182!3d20.67130908619316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ae0eec6f4061%3A0x9955990e9a4d84d6!2sCalle+Miguel+Lerdo+de+Tejada+2239%2C+Americana%2C+44160+Guadalajara%2C+Jal.!5e0!3m2!1ses-419!2smx!4v1481671758772" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (33)1592.2752 y (33)1592.3063<br>
+                                Dirección: Lerdo de Tejada #2239. Colonia
+                                Lafayette.
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-6">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_6" data-position="6" data-lat="28.648508" data-long="-106.086394" data-title="Secorp Tijuana"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7003.134993619913!2d-106.09020227247427!3d28.64272192965501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea4340b748e529%3A0x6d77e354197157e6!2sSecorp%2C+Seguridad+Corporativa.!5e0!3m2!1ses-419!2smx!4v1481671244933" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+
+                            </p>
                         </div>
                     </div>
                     <div role="tabpanel" class="vertical-align tab-pane fade" id="tab-7">
                         <div class="map-container">
-                            <div class="googleMap" id="googleMap_7" data-position="7" data-lat="28.648508" data-long="-106.086394" data-title="Secorp Cancún"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.891480669956!2d-86.84623145717012!3d21.1168921980696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDA3JzAwLjgiTiA4NsKwNTAnMzkuOCJX!5e0!3m2!1ses-419!2smx!4v1481672703541" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>
+                        <div class="content">
+                            <p>
+                                Tel: (998)914.0260<br>
+                                Dirección: Avenida Alamos, Manzana 22 / Lote 40
+                                / Int. D4 / Supermanzana 311. Fraccionamiento
+                                Alamos 1.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -289,8 +438,8 @@
             <p class="tel">
                 01 800 8301.083 Y (614)415.0252
             </p>
-            <a href="mailto:recepción_chihuahua@secorp.mx">
-                recepcion_chihuahua@secorp.mx
+            <a href="mailto:reclutamiento@secorp.mx">
+                reclutamiento@secorp.mx
             </a>
         </div>
     </div>
